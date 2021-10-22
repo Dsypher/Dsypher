@@ -1,4 +1,5 @@
 Hello
 
-Exploring stuff .. things will be done soon 
+Working on js, py and low level languages
+
 
